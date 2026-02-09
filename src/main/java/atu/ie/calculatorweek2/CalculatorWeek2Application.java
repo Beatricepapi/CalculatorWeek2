@@ -9,5 +9,5 @@ public class CalculatorWeek2Application {
     public static void main(String[] args) {
         SpringApplication.run(CalculatorWeek2Application.class, args);
     }
-
 }
+
